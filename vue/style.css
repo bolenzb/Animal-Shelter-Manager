@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'PawWowBlock';
+    src: url('src\fonts\paw-wow-font\PawWowBlock-VGMDl.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'EasterSmile';
+    src: url('src\fonts\easter-smile-font\EasterSmileDemo-q27Dd.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'BadUnicorn';
+    src: url('src\fonts\bad-unicorn-font\BadUnicornDemoRegular-BVWx.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'drphibes';
+    src: url('src\fonts\dr-phibes-font\DrPhibes-nRWL0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'kiottodemo';
+    src: url('src\fonts\kiotto-font\KiottoDemo-pgo11.otf') format('truetype');
+}
+
+
+h1 {
+    font-family: 'PawWowBlock';
+    font-size: 100px;
+    font-weight: lighter;
+    text-align: center;
+    color: rgb(119, 18, 119);
+}
+
+h2 {
+    font-family: 'EasterSmile';
+    font-size: 50px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+th {
+    font-family: 'EasterSmile';
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+p {
+    font-family: 'kiottodemo';
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+label {
+    font-family: 'kiottodemo';
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+body {
+    background-color: lightblue;
+    font-family: 'Arial';
+    font-size: large;
+}
